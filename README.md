@@ -62,7 +62,7 @@ test is only looking for the function to exist, so we can leave the code block
 empty for now:
 
 ```js
-function add() {
+function add () {
   // we'll fill this in shortly
 }
 ```
